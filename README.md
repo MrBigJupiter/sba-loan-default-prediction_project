@@ -40,6 +40,9 @@ The original SBA loan data comes from the U.S. Small Business Administration and
 🔗 For more information on this dataset, see the official publication:  
 [Amstat Data Expo 2013 – Journal of Statistical Education](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2018.1434342)
 
+🔗 The original dataset can be found here. Also give a vote up for it on Kaggle:
+[Original Dataset](https://www.kaggle.com/datasets/larsen0966/sba-loans-case-data-set?resource=download)
+
 ---
 
 ## Suggestions
