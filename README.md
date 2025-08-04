@@ -12,23 +12,19 @@ The dataset contains **2,102 observations** and **35 features**, including loan 
 - **Build predictive models** to classify whether a loan is likely to default
 - **Develop a Power BI dashboard** to communicate key findings interactively and visually
 - Support **data-driven decision making** in small business loan approval and risk management
-
 ---
 
 ## Tools and Technologies
 
 - **Python** (pandas, scikit-learn, matplotlib, seaborn)
 - **Jupyter Notebooks** for analysis and modeling
-- **Power BI** for interactive dashboard development
 - **Git & GitHub** for version control and collaboration
 
----
 
 ## Project Structure
 
 - `data/` – cleaned dataset(s)
 - `notebooks/` – Jupyter notebooks 
-- `dashboard/` – Power BI .pbix files
 - `README.md` – project overview
 
 ---
@@ -41,7 +37,7 @@ The original SBA loan data comes from the U.S. Small Business Administration and
 [Amstat Data Expo 2013 – Journal of Statistical Education](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2018.1434342)
 
 🔗 The original dataset can be found here. Also give a vote up for it on Kaggle:
-[Original Dataset](https://www.kaggle.com/datasets/larsen0966/sba-loans-case-data-set?resource=download)
+[Original Dataset](https://www.kaggle.com/datasets/larsen0966/sba-loans-case-data-set?resource=download).     
 
 ---
 
